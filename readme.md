@@ -7,6 +7,6 @@ The work in this repo borrows the Mask R-CNN code from https://github.com/matter
 
 The output images are placed in `detection` and `segmentation` folders. 
 
-##Note
+## Note
 Use of the images in this repo is not allowed without permission. 
 
