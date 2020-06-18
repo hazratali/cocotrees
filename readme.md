@@ -10,8 +10,8 @@ The work in this repo borrows the Mask R-CNN code from https://github.com/matter
 
 The output images are placed in `detection` and `segmentation` folders. 
 
-##Youtube demo
-Click on the link
+## Youtube demo
+Click on the image to play in youtube
 [![Demo on test images for Coconut trees segmentation](segmentation/s1_A07.png)](https://www.youtube.com/watch?v=GQTyYOd07BM)
 
 ## Note
