@@ -12,7 +12,7 @@ The output images are placed in `detection` and `segmentation` folders.
 
 ## Youtube demo
 Click on the image to play in youtube
-[![Demo on test images for Coconut trees segmentation](segmentation/s1_A07.png)](https://www.youtube.com/watch?v=GQTyYOd07BM)
+[![Demo on test images for Coconut trees segmentation](segmentation/s1_A07.png)](https://www.youtube.com/watch?v=tnrNLm_gSXs)
 
 ## Note
 Use of the images in this repo is not allowed without permission. 
