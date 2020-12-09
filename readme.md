@@ -1,6 +1,8 @@
 Coconut Trees Detection and Segmentation
 ========================================
 This repo provided supplementary material for our paper **Coconut Trees Detection and Segmentationin Aerial Imagery using Mask R-CNN** - submitted to IET Computer Vision.
+## Status Update - December 2020:
+The paper is accepted for publication in IET Computer Vision. Once published, we will share the link here.
 
 
 The following images are provided as a sample output on the coconut trees detection task. 
