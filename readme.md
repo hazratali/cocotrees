@@ -7,7 +7,6 @@ The paper is ~~accepted for publication~~ **published** in IET Computer Vision. 
 You can cite the paper as:
 ```
 Muhammad Shakaib Iqbal, Hazrat Ali*, Son N. Tran, Talha Iqbal, Coconut Trees Detection and Segmentation in Aerial Imagery using Mask R-CNN, IET Computer Vision, 09 April 2021.
-[SCI] [ISI Indexed] [IF:1.516] 
 doi: 10.1049/cvi2.12028  
 ```
 
